@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson15.Assignment4;
+package com.teachmeskills.lesson15.assignment4;
 
 import java.util.ArrayList;
 import java.util.List;
