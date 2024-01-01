@@ -1,12 +1,13 @@
 package com.teachmeskills.lesson15.assignment4;
 
-import java.util.ArrayList;
-import java.util.List;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class MyClass {
 
     public static void main(String[] args) {
-        List<String> list = new ArrayList<>();
+        Set<String> list = new HashSet<>();
         list.add("Andrey");
         list.add("Mark");
         list.add("Arthur");
