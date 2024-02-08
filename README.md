@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_15_HW
-This repository contains my homework assignment number 15
 # Task 1
 Create a collection of integers and fill it with values entered from the console.
 When populating a collection with numbers from the console, you should make type casts.
