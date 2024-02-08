@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson15.assignment3.method;
+package assignment3.method;
 
 import java.util.List;
 

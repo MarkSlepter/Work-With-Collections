@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson15.assignment4;
+package assignment4;
 
 
 import java.util.HashSet;

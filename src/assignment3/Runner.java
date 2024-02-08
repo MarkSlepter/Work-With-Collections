@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson15.assignment3;
+package assignment3;
 
-import com.teachmeskills.lesson15.assignment3.method.AverageCalculator;
+import assignment3.method.AverageCalculator;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

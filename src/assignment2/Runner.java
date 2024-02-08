@@ -1,9 +1,9 @@
-package com.teachmeskills.lesson15.assignment2;
+package assignment2;
 
-import com.teachmeskills.lesson15.assignment2.figure.Circle;
-import com.teachmeskills.lesson15.assignment2.figure.IFigure;
-import com.teachmeskills.lesson15.assignment2.figure.Rectangle;
-import com.teachmeskills.lesson15.assignment2.figure.Triangle;
+import assignment2.figure.Circle;
+import assignment2.figure.IFigure;
+import assignment2.figure.Rectangle;
+import assignment2.figure.Triangle;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson15.assignment2.figure;
+package assignment2.figure;
 
 public class Rectangle implements IFigure {
     public double length;
